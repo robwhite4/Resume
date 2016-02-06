@@ -1,0 +1,234 @@
+{
+  "basics": {
+    "name": "Rob White IV",
+    "label": "Training Consultant",
+    "summary": "I work in water.  More specifically for the [Alabama Rural Water Association](http://www.alruralwater.com).  I am a voracious consumer of technology.  I love to share information.  Whether authoring help documentation, creating and giving presentations, or holding training sessions for current and future professionals; I strive to find the most entertaining and creative methods for quickly and accurately disseminating information to anyone who needs it most.",
+    "website": "http://white-ink.us",
+    "phone": "1-334-478-3764",
+    "email": "robwhite4@yahoo.com",
+    "picture": "/resume/images/robConf1.jpg",
+    "location": {
+      "address": "164 Bowen Bend",
+      "postalCode": "36093",
+      "city": "Wetumpka",
+      "countryCode": "US",
+      "region": "AL"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "robwhite4",
+        "url": "https://github.com/robwhite4"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Robert White IV",
+        "url": "https://www.linkedin.com/in/robertnw"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Alabama Rural Water Association",
+      "website": "http://www.alruralwater.com",
+      "position": "Circuit Rider / Training Specialist",
+      "startDate": "2010-09",
+      "summary": "I travel the state of Alabama visiting each of the ~180 water systems in my area.  I offer them training and assistance in the three areas of water system operations; Technical, Managerial, and Financial.",
+      "highlights": [
+        "Author content for the quarterly magazine, \"The WaterLine\".",
+        "Developed a shared data management system for the field staff.",
+        "Assisted a struggling water system acquire 4.5 million dollars from USDA in order to ensure a steady and safe supply of drinking water to its customers."
+      ]
+    },
+    {
+      "company": "C2C Schools, LLC",
+      "website": "http://c2cschools.com",
+      "position": "Documentation Specialist / Project Manager",
+      "startDate": "2012-02",
+      "summary": "I write the majority of the end-user help content for this software company. I also hold the position of project manager where my roles consist of organizing company meetings and organizing and managing our agile development processes.",
+      "highlights": [
+        "Wrote 300+ articles and recorded 50+ videos.",
+        "Created (in JIRA) the company and project level agile management structure used by the company for development management."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Troy State University",
+      "gpa": "",
+      "courses": [
+        "Music Performance",
+        "Maths"
+      ],
+      "startDate": "1999-08",
+      "endDate": "2000-06"
+    },
+    {
+      "institution": "University of West Alabama",
+      "gpa": "",
+      "courses": [
+        "Actuarial Science"
+      ],
+      "startDate": "2002-08",
+      "endDate": "2003-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Water / Wastewater Treatment",
+      "level": "advanced",
+      "keywords": [
+        "AL Grade III Water Operations Specialist",
+        "AL Grade II Wastewater Operations Specialist",
+        "Water University",
+        "FEMA",
+        "NIMS",
+        "Funding Acquisition"
+      ]
+    },
+    {
+      "name": "Technology",
+      "level": "advanced",
+      "keywords": [
+        "Microsoft (MS) Word",
+        "MS Excel",
+        "MS Access",
+        "MS PowerPoint",
+        "MS Publisher",
+        "MS One Note",
+        "MS Sway",
+        "MS Delve",
+        "Javascript",
+        "VB",
+        "VBA",
+        "HTML 5",
+        "CSS 3",
+        "GitHub",
+        "Node.js",
+        "PHP",
+        "Express.js",
+        "Bootstrap 3",
+        "Mongo DB",
+        "MySQLi",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Training",
+      "level": "advanced",
+      "keywords": [
+        "Public Speaking",
+        "Writing",
+        "Online Education",
+        "Videos",
+        "Self-Paced Lessons",
+        "Adobe Captivate",
+        "MS Mix",
+        "Webinar Management"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "flavor": "volunteer",
+      "organization": "Alabama Section of the American Water Resources Association",
+      "position": "Internet Presence Manager",
+      "startDate": "2015-03",
+      "website": "http://www.awraalabama.org",
+      "summary": "I volunteered to re-create and manage this group's website.  It is a simple site served with PHP and uses the Bootstrap 3 front-end framework.  This site does not process anything, however; it is secure and responsive and provides the group with the 'home on the web' they were seeking.  It only hosts information about the group and offers historical meeting minutes to its users as well as information concerning its annual conference.  Interested folks can also sponsor the group through PayPal transactions on the site.",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "award",
+      "url": "http://nrwa.org/2016/01/alabama-rural-water-assets-beauregard/",
+      "title": "National Mention for Helping Keep the Water On!",
+      "date": "2016",
+      "awarder": "National Rural Water Association",
+      "summary": "Alabama Rural Water Assists Beauregard."
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Waterline",
+      "publisher": "www.alruralwater.com",
+      "releaseDate": "1985",
+      "website": "http://alruralwater.com/WEB/about/waterline.asp",
+      "summary": "ARWA's primary periodical; published quarterly."
+    },
+    {
+      "name": "C2Cschools.com Help Documentation",
+      "publisher": "C2C Schools, LLC",
+      "releaseDate": "2013",
+      "website": "http://help.c2cschools.com",
+      "summary": "End-user help documentation for c2cschools.com software."
+    }
+  ],
+  "interests": [
+    {
+      "name": "3D Printers",
+      "summary": "This is a thing I play with with I can.  It lends itself to my dream of inventing a useful thing one day.",
+      "keywords": [
+        "Inventions",
+        "Manufacturing",
+        "Cutting-edge",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Auburn University Athletics",
+      "summary": "War Eagle!",
+      "keywords": [
+        "War Eagle!",
+        "Football",
+        "Gus Bus"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Barack Obama",
+      "reference": "The only person I trust with stuff I need."
+    },
+    {
+      "name": "Donald Trump",
+      "reference": "My golf-buddy for life!"
+    }
+  ],
+  "samples": [
+    {
+      "title": "Work Sample #1",
+      "summary": "A technical or creative **work sample**.",
+      "url": "http://project-repo.com",
+      "date": "2015",
+      "safe": {
+        "date": "2015-01-01T06:00:00.000Z"
+      }
+    },
+    {
+      "title": "Creative Sample #2",
+      "summary": "Another technical or creative sample. You can use [Markdown](https://daringfireball.net/projects/markdown/) here.",
+      "url": "http://project-repo.com",
+      "date": "2015",
+      "safe": {
+        "date": "2015-01-01T06:00:00.000Z"
+      }
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    },
+    {
+      "language": "HTML",
+      "level": ""
+    },
+    {
+      "language": "VBA",
+      "level": ""
+    }
+  ]
+}
