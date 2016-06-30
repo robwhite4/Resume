@@ -2,144 +2,104 @@
   "name": "Rob White IV",
   "meta": {
     "format": "FRESH@0.6.0",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "info": {
-    "label": "Your Profession",
-    "brief": "A brief description of yourself as a candidate that appears in some résumé themes. You may use **Markdown** and/or <strong>HTML</strong> formatting here including [links](https://en.wikipedia.org/wiki/Special:Random) or stick to plain text.",
-    "image": ""
+    "label": "ARWA Circuit Rider",
+    "brief": "Hi!  I'm Rob and I have a passion for efficiency.  I am proud to be in a position in which I can use my talents to affect meaningful and positive changes to communities throughout the great State of Alabama.  I have a beautiful wife of eight years, a seven year old daughter, and a five year old son.  I am an avid consumer of technology and love to learn new skills that allow me to bend and purpose computers and the internet to the improvement of water systems and water and wastewater operation specialists' daily workflows.",
+    "image": "images/rob1.jpg"
   },
   "contact": {
-    "website": "http://your-website.com",
-    "phone": "1-999-999-9999",
-    "email": "your-email@your-website.com",
+    "phone": "1-334-449-8413",
+    "email": "rwhite@alruralwater.com",
     "other": []
   },
   "location": {
-    "address": "123 Somewhere Lane",
-    "city": "Castle Rock",
-    "region": "State, province, or region",
-    "code": "90210",
+    "address": "164 Bowen Bend",
+    "city": "Wetumpka",
+    "region": "AL",
+    "code": "36093",
     "country": "US"
   },
   "social": [
     {
       "label": "",
-      "network": "GitHub",
-      "user": "your-github-username",
-      "url": "https://github.com/your-github-username"
+      "network": "LinkedIn",
+      "user": "robwhite4",
+      "url": "https://www.linkedin.com/in/robertnw"
+    },
+    {
+      "label": "",
+      "network": "WaterPro",
+      "user": "robwhite4",
+      "url": "http://www.waterprocommunity.org/p/us/my/uid=1003"
     }
   ],
   "employment": {
     "summary": "Optional overall employment summary. Not used in most themes.",
     "history": [
       {
-        "employer": "Most Recent Employer",
-        "url": "http://employer-website.com",
-        "position": "Head Honcho",
-        "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2013-10",
+        "employer": "Alabama Rural Water Association",
+        "url": "http://www.alruralwater.com",
+        "position": "Circuit Rider",
+        "summary": "My job as an ARWA Circuit Rider consists of visiting water systems in Alabama and offering technical, managerial, and financial assistance to those systems in order to help them remain viable and capable of offering top quality water and water treatment to their communities.",
+        "start": "2010-09",
         "keywords": [
-          "spin widgets",
-          "CRM",
-          "PM",
-          "Ninjitsu",
-          "Six Sigma"
+          "water",
+          "treatment",
+          "technical",
+          "training",
+          "managerial",
+          "financial"
         ],
         "highlights": [
-          "Increased profits on left-handed spin widgets by 35%.",
-          "Participated in iterative/incremental devolution.",
-          "Promoted to Head Ninja after 500 successful cage matches."
+          "Assisted one community identify issues that resulted in approval of a five million dollar ($5,000,000.00) upgrade to the system.",
+          "Periodically author articles for the quarterly magazine, 'The WaterLine'",
+          "Developed a proprietary 'proof of concept' water system information management database in order to facilitate the day-to-day work of the circuit rider and improve reporting capabilities.",
+          "Leak survey success, ready about it here -> [http://nrwa.org/2016/01/alabama-rural-water-assets-beauregard/](http://nrwa.org/2016/01/alabama-rural-water-assets-beauregard/)"
         ]
       },
       {
-        "employer": "Previous Employer",
-        "url": "http://employer-website.com",
-        "position": "Worker Bee",
-        "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2009-07",
-        "end": "2013-10",
+        "employer": "City of Samson",
+        "url": "http://www.cityofsamson.com/",
+        "position": "Utilities Manager",
+        "summary": "As manager of the City of Samson's utilities, I was responsible for the collection, treatment, distribution, re-collection, re-treatment, and disposal of the City of Samson’s water.",
+        "start": "2006-01",
+        "end": "2010-09",
         "keywords": [
-          "keyword1",
-          "KW2",
-          "KW2++",
-          "YAKW"
+          "municipality",
+          "utilities",
+          "manager"
         ],
         "highlights": [
-          "Highlight #1.",
-          "Highlight #2.",
-          "Highlight #3."
+          "Authored the first town newsletter to the customers, giving our community information about our work and developing the customer - city relationship.",
+          "Oversaw a variety of grants and system improvements during my tenure.",
+          "Created an implemented the first Standards of Operation and Procedures guidelines for the utilities department."
         ]
       }
     ]
   },
-  "projects": [
-    {
-      "title": "Awesome Project #1",
-      "category": "FOSS",
-      "url": "http://project-page.org",
-      "repo": "https://project-repo.com",
-      "media": [],
-      "role": "Contributor",
-      "summary": "Show off your project work with a Markdown-and-HTML friendly summary of your role on the project. Software projects, creative projects, business projects can all appear here.",
-      "description": "A description of the project, for audiences that may not be familiar with it. Like the summary section, can include **Markdown** and inline <strong>HTML</strong> formatting.",
-      "highlights": [
-        "Project Highlight #1",
-        "Project Highlight #2",
-        "Project Highlight #3"
-      ],
-      "keywords": [
-        "Tag1",
-        "Tag2",
-        "Tag3",
-        "Tag4"
-      ]
-    },
-    {
-      "title": "Asteroids",
-      "category": "FOSS",
-      "url": "http://asteroids-demo.org",
-      "repo": "https://asteroids-repo.com",
-      "media": [],
-      "role": "Creator",
-      "summary": "Conceived, designed, implemented, and created 3D Asteroids space shooter with Unreal Engine IV and C++.",
-      "description": "A 3D Asteroids clone with Unreal 4 and cross-platform C++.",
-      "highlights": [
-        "Project Highlight #1",
-        "Project Highlight #2",
-        "Project Highlight #3"
-      ],
-      "keywords": [
-        "C++",
-        "Unreal Engine",
-        "3D",
-        "DirectX"
-      ]
-    }
-  ],
   "education": {
-    "summary": "Optional overall education summary. Not used in most themes.",
-    "level": "degree",
-    "degree": "BSCS",
     "history": [
       {
-        "institution": "Acme University",
-        "title": "BSCS",
-        "url": "http://acmeuniversity.edu",
-        "start": "2004-09",
-        "end": "2009-06",
-        "grade": "3.5",
-        "summary": "Graduate of Acme University, summer of 2009. Go [Coyotes](https://en.wikipedia.org/wiki/Coyote)!",
-        "curriculum": [
-          "Data Algorithms",
-          "Optimization",
-          "Neural Networks",
-          "C",
-          "C++",
-          "Java",
-          "HTTP",
-          "TCP/IP"
-        ]
+        "institution": "attended Troy State University (Music Education Major)",
+        "start": "1999",
+        "end": "2000"
+      },
+      {
+        "institution": "attended University of West Alabama (Actuarial Science)",
+        "start": "2003",
+        "end": "2004"
+      },
+      {
+        "institution": "attended Kaplan University Online (Bachelor of Science in Environmental Policy and Management)",
+        "start": "2009",
+        "end": "2009"
+      },
+      {
+        "institution": "Graduated Samson High School",
+        "start": "1995",
+        "end": "1999"
       }
     ]
   },
@@ -148,20 +108,12 @@
     "history": [
       {
         "flavor": "volunteer",
-        "position": "Volunteer Coordinator",
-        "organization": "The Mommies Network",
-        "url": "http://themommiesnetwork.org",
-        "start": "2006-06",
-        "summary": "A summary of your volunteer experience at this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "highlights": []
-      },
-      {
-        "flavor": "military",
-        "position": "MOS",
-        "organization": "Air Force",
-        "url": "https://service-website.mil",
-        "start": "2004",
-        "summary": "A summary of your service experience with this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
+        "position": "Web Presence Manager",
+        "organization": "Alabama Section of the American Water Resources Association",
+        "url": "http://www.awraalabama.org/",
+        "start": "2015-02",
+        "end": "current",
+        "summary": "I volunteered to help manage this association's presence on the web.  In other words, I built the website and assist with its hosting and updating.",
         "highlights": []
       }
     ]
@@ -169,189 +121,156 @@
   "skills": {
     "sets": [
       {
-        "name": "Web Development",
+        "name": "Web / Software Development",
         "level": "advanced",
         "skills": [
-          "LAMP",
           "JavaScript",
           "HTML 5",
-          "Angular.js",
+          "Express",
           "jQuery",
           "Sass",
-          "LESS"
+          "Nodejs",
+          "MongoDB",
+          "Bootstrap 3",
+          "Amazon AWS",
+          "Vagrant",
+          "Docker",
+          "Cloud Tech"
         ]
       },
       {
-        "name": "Ninjitsu",
-        "level": "intermediate",
+        "name": "Training",
+        "level": "advanced",
         "skills": [
-          "Tokagure Ryu",
-          "Shuriken",
-          "Yogen"
+          "Public Speaking",
+          "Presentations",
+          "Knowledge Acquisition / Distribution",
+          "Writing"
         ]
       },
       {
-        "name": "Skillset #3",
-        "level": "beginner",
+        "name": "Writing",
+        "level": "advanced",
         "skills": [
-          "Your",
-          "keywords",
-          "here"
+          "Blogs",
+          "Articles",
+          "Reports",
+          "Microsoft Technologies",
+          "Infographs"
+        ]
+      },
+      {
+        "name": "Water - Wastewater Treatment Certifications",
+        "level": "advanced",
+        "skills": [
+          "AL Grade III Water Certification",
+          "AL Grade II Wastewater Certification",
+          "FEMA NIMS IS-00100.PW",
+          "FEMA NIMS IS-00200",
+          "FEMA NIMS IS-00700",
+          "FEMA NIMS IS-00800.A",
+          "FEMA Professional Development Series",
+          "NRWA Water University"
+        ]
+      },
+      {
+        "name": "Other Certifications In Progress",
+        "level": "advanced",
+        "skills": [
+          "Commercial Energy Auditor Certification from the Energy Audit Institute (EAI)"
         ]
       }
     ],
     "list": []
   },
-  "samples": [
-    {
-      "title": "Work Sample #1",
-      "summary": "A technical or creative **work sample**.",
-      "url": "http://project-repo.com",
-      "date": "2015"
-    },
-    {
-      "title": "Creative Sample #2",
-      "summary": "Another technical or creative sample. You can use [Markdown](https://daringfireball.net/projects/markdown/) here.",
-      "url": "http://project-repo.com",
-      "date": "2015"
-    }
-  ],
   "writing": [
     {
-      "title": "My Blog",
+      "title": "The Waterline",
       "publisher": {
-        "name": "Medium.com",
-        "url": "https://medium.com"
+        "name": "ARWA",
+        "url": "https://www.alruralwater.com"
+      },
+      "flavor": "article",
+      "date": "2016",
+      "summary": "Periodic Article Author for 'The Waterline', a publication of the ARWA.",
+      "url": "http://www.alruralwater.com"
+    },
+    {
+      "title": "C2C Software Documentation",
+      "publisher": {
+        "name": "C2CSchools, LLC",
+        "url": "https://support.c2cschools.com"
       },
       "flavor": "blog",
-      "date": "2010",
-      "summary": "Your blog or online home.",
-      "url": "http://coding-snorer.com"
-    },
-    {
-      "title": "Something I Wrote Once",
-      "flavor": "essay",
-      "date": "2009",
-      "summary": "List your blogs, articles, essays, novels, and dissertations.",
-      "publisher": {
-        "name": "Acme University Press",
-        "url": "http://press.acmeuniversity.edu"
-      },
-      "url": "http://codeproject.com/something-i-wrote-once"
-    }
-  ],
-  "reading": [
-    {
-      "title": "Other Copenhagens",
-      "flavor": "book",
-      "url": "http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209",
-      "author": "Edmund Jorgensen"
-    },
-    {
-      "title": "r/programming",
-      "flavor": "website",
-      "url": "https://www.reddit.com/r/programming"
-    },
-    {
-      "title": "Hacker News",
-      "flavor": "website",
-      "url": "https://news.ycombinator.com/"
-    }
-  ],
-  "recognition": [
-    {
-      "flavor": "award",
-      "from": "HackMyResume",
-      "title": "Awesomeness Award",
-      "event": "HMR Release",
-      "url": "http://please.hackmyresume.com",
       "date": "2016",
-      "summary": "Thanks for being a HackMyResume / FluentCV user!"
-    },
-    {
-      "flavor": "industry",
-      "from": "Big Software",
-      "title": "MVP: SpinWidget Technology",
-      "event": "Yearly Roundup",
-      "date": "2015-08-03",
-      "summary": "For work in promotion and popularization of SpinWidget technology."
+      "summary": "Software Documentation for a high-school athletics management software company.",
+      "url": "http://support.c2cschools.com"
     }
   ],
   "references": [
     {
-      "name": "John Doe",
+      "name": "Mike Baumgartner",
       "category": "professional",
-      "role": "Manager @ Somewhere Inc.",
-      "private": true,
+      "role": "Wastewater Specialist / Alabama Rural Water Association",
+      "private": false,
       "summary": "Contact information available on request.",
       "contact": [
         {
           "flavor": "email",
-          "value": "john.doe@somewhere.com"
+          "value": "mbaumgartner@alruralwater.com"
         }
       ]
     },
     {
-      "name": "Jane Q. Fullstacker",
-      "category": "technical",
+      "name": "James Miller",
+      "category": "professional",
       "summary": "Contact information available on request.",
-      "role": "Coworker",
-      "private": true,
+      "role": "Access to Care Specialist at SpectraCare Health Systems",
+      "private": false,
       "contact": [
         {
           "flavor": "email",
-          "value": "jane.fullstacker@somewhere.com"
+          "value": "jamesmi@spectracare.org"
         }
       ]
     }
   ],
   "testimonials": [
     {
-      "name": "John Doe",
+      "name": "Mike Baumgartner - Wastewater Specialist / Alabama Rural Water Association",
       "flavor": "professional",
-      "quote": "Such-and-such is awesome! I'd hire him/her again in a second!",
+      "quote": "_Rob is a great resource to us challenged by new technology. We rely on Rob to find ways to make our job easier. He is a huge asset. Did I mention he is very knowledgeable in the water business._",
       "private": false
     },
     {
-      "name": "Somebody Important",
+      "name": "James Miller - Access to Care Specialist at SpectraCare Health Systems",
       "flavor": "technical",
-      "quote": "Hands-down *the best developer/manager/spelunker/coworker/etc* I've ever worked with. Emphasis *mine!*",
+      "quote": "_Rob is a motivational force like no other. He continues to coach, teach, and develop people and organizations wherever he goes and has been influential in my own career advancement. He has a knack for innovation and strives for improvement on a daily basis. I couldn't praise or thank him enough and if I started my own company tomorrow, he'd be the first person I'd call._",
       "private": false
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "level": "native"
-    },
-    {
-      "language": "Spanish",
-      "level": "advanced"
-    },
-    {
-      "language": "C++",
-      "level": "intermediate"
     }
   ],
   "interests": [
     {
-      "name": "GitHub",
-      "summary": "Regular GitHub user and tinkerer.",
+      "name": "Technology",
+      "summary": "I'm an avid consumer of technology.  I remain interested in learning all I can about it.",
       "keywords": [
-        "GitHub",
-        "git",
-        "GitHub Desktop (OS X)",
-        "LFS",
-        "GitHub API"
+        "Software",
+        "Web Development",
+        "Database",
+        "Audio - Video Content Creation",
+        "Web Hosting",
+        "Continuous Integration - Deployment",
+        "API Integrations"
       ]
     },
     {
-      "name": "chess",
-      "summary": "Avid chess player.",
+      "name": "Sports",
+      "summary": "College Football",
       "keywords": [
-        "Sicilian",
-        "King's Gambit",
-        "Ruy Lopez"
+        "SEC",
+        "Football",
+        "Auburn Athletics",
+        "ESPN Game Day"
       ]
     }
   ]
