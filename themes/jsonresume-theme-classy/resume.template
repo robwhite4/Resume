@@ -9,7 +9,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <style>
 		body {
-			font-size: 62.5%;
+			font-size: 72.5%;
 			font-family: Montserrat;
 			color: #333333;
 		}
@@ -69,6 +69,7 @@
 			font-size: 3.5em;
 		}
 		h3 {
+		    page-break-after: avoid;
 			font-size:2em;
 			margin-bottom:0;
 		}
@@ -242,7 +243,7 @@
 		<div id= "education">
 			<h2><i class= "fa fa-graduation-cap left"></i> EDUCATION</h2>
 			{{#education}}
-				<h3>{{studyType}}, {{area}} - {{institution}}</h3>
+				<h3>{{institution}}</h3>
 				<h4>{{startDateMonth}}{{startDateYear}} - {{endDateMonth}}{{endDateYear}}{{#gpaBool}}<br>
 				GPA: {{gpa}}{{/gpaBool}}</h4>
 				{{#educationCourses}}

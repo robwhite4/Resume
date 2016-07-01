@@ -1,57 +1,27 @@
 {
   "name": "Rob White IV",
+  "info": {},
   "meta": {
     "format": "FRESH@0.6.0",
-    "version": "0.2.0"
-  },
-  "info": {
-    "label": "ARWA Circuit Rider",
-    "brief": "Hi!  I'm Rob and I have a passion for efficiency.  I am proud to be in a position in which I can use my talents to affect meaningful and positive changes to communities throughout the great State of Alabama.  I have a beautiful wife of eight years, a seven year old daughter, and a five year old son.  I am an avid consumer of technology and love to learn new skills that allow me to bend and purpose computers and the internet to the improvement of water systems and water and wastewater operation specialists' daily workflows.",
-    "image": "images/rob1.jpg"
-  },
-  "contact": {
-    "phone": "1-334-449-8413",
-    "email": "rwhite@alruralwater.com",
-    "other": []
+    "version": "0.1.0"
   },
   "location": {
-    "address": "164 Bowen Bend",
     "city": "Wetumpka",
     "region": "AL",
+    "country": "US",
     "code": "36093",
-    "country": "US"
+    "address": "164 Bowen Bend"
   },
-  "social": [
-    {
-      "label": "",
-      "network": "LinkedIn",
-      "user": "robwhite4",
-      "url": "https://www.linkedin.com/in/robertnw"
-    },
-    {
-      "label": "",
-      "network": "WaterPro",
-      "user": "robwhite4",
-      "url": "http://www.waterprocommunity.org/p/us/my/uid=1003"
-    }
-  ],
   "employment": {
-    "summary": "Optional overall employment summary. Not used in most themes.",
     "history": [
       {
-        "employer": "Alabama Rural Water Association",
-        "url": "http://www.alruralwater.com",
         "position": "Circuit Rider",
+        "employer": "Alabama Rural Water Association",
         "summary": "My job as an ARWA Circuit Rider consists of visiting water systems in Alabama and offering technical, managerial, and financial assistance to those systems in order to help them remain viable and capable of offering top quality water and water treatment to their communities.",
+        "current": true,
         "start": "2010-09",
-        "keywords": [
-          "water",
-          "treatment",
-          "technical",
-          "training",
-          "managerial",
-          "financial"
-        ],
+        "url": "http://www.alruralwater.com",
+        "keywords": [],
         "highlights": [
           "Assisted one community identify issues that resulted in approval of a five million dollar ($5,000,000.00) upgrade to the system.",
           "Periodically author articles for the quarterly magazine, 'The WaterLine'",
@@ -60,17 +30,13 @@
         ]
       },
       {
-        "employer": "City of Samson",
-        "url": "http://www.cityofsamson.com/",
         "position": "Utilities Manager",
+        "employer": "City of Samson",
         "summary": "As manager of the City of Samson's utilities, I was responsible for the collection, treatment, distribution, re-collection, re-treatment, and disposal of the City of Samson’s water.",
         "start": "2006-01",
         "end": "2010-09",
-        "keywords": [
-          "municipality",
-          "utilities",
-          "manager"
-        ],
+        "url": "http://www.cityofsamson.com/",
+        "keywords": [],
         "highlights": [
           "Authored the first town newsletter to the customers, giving our community information about our work and developing the customer - city relationship.",
           "Oversaw a variety of grants and system improvements during my tenure.",
@@ -80,39 +46,43 @@
     ]
   },
   "education": {
+    "level": "",
     "history": [
       {
-        "institution": "_(attended)_ Troy State University (Music Education Major)",
-        "start": "1999",
-        "end": "2000"
+        "institution": "_(attended)_ Kaplan University Online (Bachelor of Science in Environmental Policy and Management)",
+        "start": "2009",
+        "end": "2009",
+        "summary": ""
       },
       {
         "institution": "_(attended)_ University of West Alabama (Actuarial Science)",
         "start": "2003",
-        "end": "2004"
+        "end": "2004",
+        "summary": ""
       },
       {
-        "institution": "_(attended)_ Kaplan University Online (Bachelor of Science in Environmental Policy and Management)",
-        "start": "2009",
-        "end": "2009"
+        "institution": "_(attended)_ Troy State University (Music Education Major)",
+        "start": "1999",
+        "end": "2000",
+        "summary": ""
       },
       {
         "institution": "Graduated Samson High School",
         "start": "1995",
-        "end": "1999"
+        "end": "1999",
+        "summary": ""
       }
     ]
   },
   "service": {
-    "summary": "",
     "history": [
       {
-        "flavor": "volunteer",
+        "type": "volunteer",
         "position": "Web Presence Manager",
         "organization": "Alabama Section of the American Water Resources Association",
-        "url": "http://www.awraalabama.org/",
         "start": "2015-02",
         "end": "current",
+        "url": "http://www.awraalabama.org/",
         "summary": "I volunteered to help manage this association's presence on the web.  In other words, I built the website and assist with its hosting and updating.",
         "highlights": []
       }
@@ -180,73 +150,36 @@
           "Commercial Energy Auditor Certification from the Energy Audit Institute (EAI)"
         ]
       }
-    ],
-    "list": []
+    ]
   },
   "writing": [
     {
       "title": "The Waterline",
-      "publisher": {
-        "name": "ARWA",
-        "url": "https://www.alruralwater.com"
-      },
-      "flavor": "article",
+      "publisher": "ARWA",
+      "url": "http://www.alruralwater.com",
       "date": "2016",
-      "summary": "Periodic Article Author for 'The Waterline', a publication of the ARWA.",
-      "url": "http://www.alruralwater.com"
+      "summary": "Periodic Article Author for 'The Waterline', a publication of the ARWA."
     },
     {
       "title": "C2C Software Documentation",
-      "publisher": {
-        "name": "C2CSchools, LLC",
-        "url": "https://support.c2cschools.com"
-      },
-      "flavor": "blog",
+      "publisher": "C2CSchools, LLC",
+      "url": "http://support.c2cschools.com",
       "date": "2016",
-      "summary": "Software Documentation for a high-school athletics management software company.",
-      "url": "http://support.c2cschools.com"
+      "summary": "Software Documentation for a high-school athletics management software company."
     }
   ],
-  "references": [
+  "social": [
     {
-      "name": "Mike Baumgartner",
-      "category": "professional",
-      "role": "Wastewater Specialist / Alabama Rural Water Association",
-      "private": false,
-      "summary": "Contact information available on request.",
-      "contact": [
-        {
-          "flavor": "email",
-          "value": "mbaumgartner@alruralwater.com"
-        }
-      ]
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robertnw",
+      "user": "robwhite4"
     },
     {
-      "name": "James Miller",
-      "category": "professional",
-      "summary": "Contact information available on request.",
-      "role": "Access to Care Specialist at SpectraCare Health Systems",
-      "private": false,
-      "contact": [
-        {
-          "flavor": "email",
-          "value": "jamesmi@spectracare.org"
-        }
-      ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "Mike Baumgartner - Wastewater Specialist / Alabama Rural Water Association",
-      "flavor": "professional",
-      "quote": "_Rob is a great resource to us challenged by new technology. We rely on Rob to find ways to make our job easier. He is a huge asset. Did I mention he is very knowledgeable in the water business._",
-      "private": false
-    },
-    {
-      "name": "James Miller - Access to Care Specialist at SpectraCare Health Systems",
-      "flavor": "technical",
-      "quote": "_Rob is a motivational force like no other. He continues to coach, teach, and develop people and organizations wherever he goes and has been influential in my own career advancement. He has a knack for innovation and strives for improvement on a daily basis. I couldn't praise or thank him enough and if I started my own company tomorrow, he'd be the first person I'd call._",
-      "private": false
+      "label": "WaterPro",
+      "network": "WaterPro",
+      "url": "http://www.waterprocommunity.org/p/us/my/uid=1003",
+      "user": "robwhite4"
     }
   ],
   "interests": [
@@ -272,6 +205,20 @@
         "Auburn Athletics",
         "ESPN Game Day"
       ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mike Baumgartner - Wastewater Specialist / Alabama Rural Water Association",
+      "flavor": "professional",
+      "quote": "_Rob is a great resource to us challenged by new technology. We rely on Rob to find ways to make our job easier. He is a huge asset. Did I mention he is very knowledgeable in the water business._",
+      "private": false
+    },
+    {
+      "name": "James Miller - Access to Care Specialist at SpectraCare Health Systems",
+      "flavor": "professional",
+      "quote": "_Rob is a motivational force like no other. He continues to coach, teach, and develop people and organizations wherever he goes and has been influential in my own career advancement. He has a knack for innovation and strives for improvement on a daily basis. I couldn't praise or thank him enough and if I started my own company tomorrow, he'd be the first person I'd call._",
+      "private": false
     }
   ]
 }

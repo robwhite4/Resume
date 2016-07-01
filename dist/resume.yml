@@ -1,0 +1,163 @@
+basics:
+  name: 'Rob White IV'
+  label: 'ARWA Circuit Rider'
+  summary: 'Hi!  I''m Rob and I have a passion for efficiency.  I am proud to be in a position in which I can use my talents to affect meaningful and positive changes to communities throughout the great State of Alabama.  I have a beautiful wife of eight years, a seven year old daughter, and a five year old son.  I am an avid consumer of technology and love to learn new skills that allow me to bend and purpose computers and the internet to the improvement of water systems and water and wastewater operation specialists'' daily workflows.'
+  phone: 1-334-449-8413
+  email: rwhite@alruralwater.com
+  picture: images/rob1.jpg
+  location:
+    address: '164 Bowen Bend'
+    postalCode: '36093'
+    city: Wetumpka
+    countryCode: US
+    region: AL
+  profiles:
+    -
+      network: LinkedIn
+      username: robwhite4
+      url: 'https://www.linkedin.com/in/robertnw'
+    -
+      network: WaterPro
+      username: robwhite4
+      url: 'http://www.waterprocommunity.org/p/us/my/uid=1003'
+work:
+  -
+    company: 'Alabama Rural Water Association'
+    website: 'http://www.alruralwater.com'
+    position: 'Circuit Rider'
+    startDate: 2010-09
+    summary: 'My job as an ARWA Circuit Rider consists of visiting water systems in Alabama and offering technical, managerial, and financial assistance to those systems in order to help them remain viable and capable of offering top quality water and water treatment to their communities.'
+    highlights:
+      - 'Assisted one community identify issues that resulted in approval of a five million dollar ($5,000,000.00) upgrade to the system.'
+      - 'Periodically author articles for the quarterly magazine, ''The WaterLine'''
+      - 'Developed a proprietary ''proof of concept'' water system information management database in order to facilitate the day-to-day work of the circuit rider and improve reporting capabilities.'
+      - 'Leak survey success, read about it here -> [http://nrwa.org/2016/01/alabama-rural-water-assets-beauregard/](http://nrwa.org/2016/01/alabama-rural-water-assets-beauregard/)'
+  -
+    company: 'City of Samson'
+    website: 'http://www.cityofsamson.com/'
+    position: 'Utilities Manager'
+    startDate: 2006-01
+    endDate: 2010-09
+    summary: 'As manager of the City of Samson''s utilities, I was responsible for the collection, treatment, distribution, re-collection, re-treatment, and disposal of the City of Samson’s water.'
+    highlights:
+      - 'Authored the first town newsletter to the customers, giving our community information about our work and developing the customer - city relationship.'
+      - 'Oversaw a variety of grants and system improvements during my tenure.'
+      - 'Created an implemented the first Standards of Operation and Procedures guidelines for the utilities department.'
+education:
+  -
+    institution: '_(attended)_ Kaplan University Online (Bachelor of Science in Environmental Policy and Management)'
+    startDate: '2009'
+    endDate: '2009'
+  -
+    institution: '_(attended)_ University of West Alabama (Actuarial Science)'
+    startDate: '2003'
+    endDate: '2004'
+  -
+    institution: '_(attended)_ Troy State University (Music Education Major)'
+    startDate: '1999'
+    endDate: '2000'
+  -
+    institution: 'Graduated Samson High School'
+    startDate: '1995'
+    endDate: '1999'
+skills:
+  -
+    name: 'Web / Software Development'
+    level: advanced
+    keywords:
+      - JavaScript
+      - 'HTML 5'
+      - Express
+      - jQuery
+      - Sass
+      - Nodejs
+      - MongoDB
+      - 'Bootstrap 3'
+      - 'Amazon AWS'
+      - Vagrant
+      - Docker
+      - 'Cloud Tech'
+  -
+    name: Training
+    level: advanced
+    keywords:
+      - 'Public Speaking'
+      - Presentations
+      - 'Knowledge Acquisition / Distribution'
+      - Writing
+  -
+    name: Writing
+    level: advanced
+    keywords:
+      - Blogs
+      - Articles
+      - Reports
+      - 'Microsoft Technologies'
+      - Infographs
+  -
+    name: 'Water - Wastewater Treatment Certifications'
+    level: advanced
+    keywords:
+      - 'AL Grade III Water Certification'
+      - 'AL Grade II Wastewater Certification'
+      - 'FEMA NIMS IS-00100.PW'
+      - 'FEMA NIMS IS-00200'
+      - 'FEMA NIMS IS-00700'
+      - 'FEMA NIMS IS-00800.A'
+      - 'FEMA Professional Development Series'
+      - 'NRWA Water University'
+  -
+    name: 'Other Certifications In Progress'
+    level: advanced
+    keywords:
+      - 'Commercial Energy Auditor Certification from the Energy Audit Institute (EAI)'
+volunteer:
+  -
+    flavor: volunteer
+    organization: 'Alabama Section of the American Water Resources Association'
+    position: 'Web Presence Manager'
+    startDate: 2015-02
+    endDate: current
+    website: 'http://www.awraalabama.org/'
+    summary: 'I volunteered to help manage this association''s presence on the web.  In other words, I built the website and assist with its hosting and updating.'
+    highlights: []
+publications:
+  -
+    name: 'The Waterline'
+    publisher: ARWA
+    releaseDate: '2016'
+    website: 'http://www.alruralwater.com'
+    summary: 'Periodic Article Author for ''The Waterline'', a publication of the ARWA.'
+  -
+    name: 'C2C Software Documentation'
+    publisher: 'C2CSchools, LLC'
+    releaseDate: '2016'
+    website: 'http://support.c2cschools.com'
+    summary: 'Software Documentation for a high-school athletics management software company.'
+interests:
+  -
+    name: Technology
+    summary: 'I''m an avid consumer of technology.  I remain interested in learning all I can about it.'
+    keywords:
+      - Software
+      - 'Web Development'
+      - Database
+      - 'Audio - Video Content Creation'
+      - 'Web Hosting'
+      - 'Continuous Integration - Deployment'
+      - 'API Integrations'
+  -
+    name: Sports
+    summary: 'College Football'
+    keywords:
+      - SEC
+      - Football
+      - 'Auburn Athletics'
+      - 'ESPN Game Day'
+references:
+  -
+    name: 'Mike Baumgartner - Wastewater Specialist / Alabama Rural Water Association'
+    reference: '_Rob is a great resource to us challenged by new technology. We rely on Rob to find ways to make our job easier. He is a huge asset. Did I mention he is very knowledgeable in the water business._'
+  -
+    name: 'James Miller - Access to Care Specialist at SpectraCare Health Systems'
+    reference: '_Rob is a motivational force like no other. He continues to coach, teach, and develop people and organizations wherever he goes and has been influential in my own career advancement. He has a knack for innovation and strives for improvement on a daily basis. I couldn''t praise or thank him enough and if I started my own company tomorrow, he''d be the first person I''d call._'

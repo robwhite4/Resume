@@ -1,0 +1,22 @@
+{
+  "name": "rob-resumes",
+  "version": "1.0.0",
+  "description": "I'm trying to figure out this tool.  And this is where I'll keep my notes.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "classy": "hackmyresume BUILD r1.json TO dist/resume.all -t themes/jsonresume-theme-classy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robwhite4/Resume.git"
+  },
+  "author": "Rob White IV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robwhite4/Resume/issues"
+  },
+  "homepage": "https://github.com/robwhite4/Resume"
+}
